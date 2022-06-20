@@ -3,7 +3,7 @@
     "description": "Eliminatórias Copa 2022",
     "place": {
       "name": "Maracanã",
-      "image": "TODO"
+      "image": "https://live.staticflickr.com/3173/2941621090_15e2b9ff4f_b.jpg"
     },
     "homeTeam": {
       "name": "Brasil",
@@ -20,7 +20,7 @@
     "description": "Eliminatórias Copa 2022",
     "place": {
       "name": "Estádio Centenário",
-      "image": "TODO"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/98/Estadio_Centenario_2021.jpg"
     },
     "homeTeam": {
       "name": "Uruguay",
@@ -37,7 +37,7 @@
     "description": "Eliminatórias Copa 2022",
     "place": {
       "name": "Maracanã",
-      "image": "TODO"
+      "image": "https://live.staticflickr.com/3173/2941621090_15e2b9ff4f_b.jpg"
     },
     "homeTeam": {
       "name": "Brasil",
